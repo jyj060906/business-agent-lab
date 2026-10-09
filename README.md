@@ -4,4 +4,3 @@
 
 I don't know
 
-# dual-camera-web
